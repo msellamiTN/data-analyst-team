@@ -1,4 +1,4 @@
-#! /usr/local/bin/python3
+#! /usr/bin/python3
 print('Hello, Data World!')
 print('Hello, Data Analyst:')
 print('Hello, Data Architect 2021!')
